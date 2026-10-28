@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Portfolio personal (ejemplo)",
+    "category": "Web personal",
+    "description": "Proyecto de muestra para aprender a presentar quién eres, qué sabes hacer y cómo contactar contigo. Reemplázalo por un proyecto propio.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "isExample": true
+  },
+  {
+    "name": "Web de cafetería (ejemplo)",
+    "category": "Landing page",
+    "description": "Ejemplo ficticio de una página informativa para practicar jerarquía visual, diseño adaptable y llamadas a la acción.",
+    "technologies": [
+      "HTML",
+      "CSS"
+    ],
+    "isExample": true
+  },
+  {
+    "name": "Gestor de tareas (ejemplo)",
+    "category": "Aplicación web",
+    "description": "Idea de práctica para contar qué problema resuelve una aplicación y qué decisiones técnicas se tomaron. No es un trabajo real.",
+    "technologies": [
+      "JavaScript",
+      "CSS"
+    ],
+    "isExample": true
+  }
+]

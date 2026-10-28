@@ -1,0 +1,31 @@
+{
+  "name": "Tu Nombre",
+  "profession": "Desarrollo web · Diseño digital",
+  "headline": "Hola, soy Tu Nombre. Construyo sitios y aplicaciones web funcionales, con atención al diseño y la accesibilidad.",
+  "about": [
+    "Esta es una plantilla de portfolio para practicar desarrollo asistido por IA. Sustituye este párrafo por una presentación auténtica.",
+    "Explica qué estás aprendiendo, cuáles son tus intereses y qué aportas a tus proyectos. No es necesario inventar experiencia profesional."
+  ],
+  "location": "Tu ciudad",
+  "skills": [
+    "HTML semántico",
+    "CSS y diseño responsive",
+    "JavaScript",
+    "Git y GitHub",
+    "Accesibilidad web",
+    "Trabajo en equipo"
+  ],
+  "contact": {
+    "email": "info@enriqueteruel.com",
+    "github": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "colors": {
+    "accent": "#111111",
+    "background": "#f4f2f0",
+    "surface": "#e8e5e2",
+    "text": "#111111",
+    "muted": "#77736f"
+  }
+}
