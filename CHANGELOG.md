@@ -2,6 +2,17 @@
 
 Todas las modificaciones notables de este proyecto se documentan en este archivo según la metodología [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
+## [Sin publicar]
+
+### Añadido
+- Portfolio personal de Daniela T con presentación, áreas de experiencia, proyectos marcados como ejemplos y enlace a LinkedIn.
+- Diseño responsive con navegación móvil accesible, foco visible y soporte para movimiento reducido.
+
+### Modificado
+- Datos del perfil actualizados a partir de la información facilitada; se omitieron el email y los proyectos personales no proporcionados.
+- Contraste del texto secundario reforzado para mejorar su legibilidad sobre el fondo.
+- Hoja de estilos enlazada desde el HTML para que el diseño también se cargue en previsualizaciones directas.
+
 ## [1.1.0] - 2026-10-26
 
 ### Añadido

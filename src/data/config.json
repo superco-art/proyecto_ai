@@ -1,24 +1,31 @@
 {
-  "name": "Tu Nombre",
-  "profession": "Desarrollo web · Diseño digital",
-  "headline": "Hola, soy Tu Nombre. Construyo sitios y aplicaciones web funcionales, con atención al diseño y la accesibilidad.",
+  "name": "Daniela T",
+  "profession": "AI-Augmented Software Trainer & Mentor | AI-Driven Software Co-Creation",
+  "headline": "AI-Augmented Software Trainer & Mentor | AI-Driven Software Co-Creation",
   "about": [
-    "Esta es una plantilla de portfolio para practicar desarrollo asistido por IA. Sustituye este párrafo por una presentación auténtica.",
-    "Explica qué estás aprendiendo, cuáles son tus intereses y qué aportas a tus proyectos. No es necesario inventar experiencia profesional."
+    "Passionate about technology education, community engagement, and inclusive talent growth. As an AI-Augmented Software Trainer and Workshop Coordinator, my mission is to transform how we learn and interact with technology—shifting the paradigm from simply \"writing code\" to mastering critical thinking, architectural design, and human-AI co-creation.",
+    "Technical Discretion & Code Auditing: I empower students, tech professionals, and diverse audiences to become the \"conductors\" of AI. Specializing in Python, AI tools, and Cybersecurity (including social engineering, network security, and ethical hacking), I teach how to understand the logic behind the code, debug AI hallucinations, and architect resilient software solutions.",
+    "Human Connection, Resilience & STEAM Advocacy: Technology moves fast, but human resilience, collective creativity, and managing developer friction are irreplaceable. I have a proven track record of leading high-impact, interactive sessions for local tech communities, high schools, and tier-1 global events like the Mobile World Congress. I am deeply committed to managing technical frustration, fostering inclusion, and empowering underrepresented groups—especially young women—to thrive in STEAM."
   ],
-  "location": "Tu ciudad",
   "skills": [
-    "HTML semántico",
-    "CSS y diseño responsive",
-    "JavaScript",
-    "Git y GitHub",
-    "Accesibilidad web",
-    "Trabajo en equipo"
+    "Python",
+    "AI tools",
+    "Cybersecurity",
+    "Social engineering",
+    "Network security",
+    "Ethical hacking",
+    "Code auditing",
+    "AI hallucination debugging",
+    "Architectural design",
+    "Human-AI co-creation",
+    "Workshop coordination",
+    "STEAM advocacy",
+    "Inclusive talent growth"
   ],
   "contact": {
-    "email": "info@enriqueteruel.com",
+    "email": "",
     "github": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/daniela-trifu/",
     "website": ""
   },
   "colors": {
@@ -26,6 +33,6 @@
     "background": "#f4f2f0",
     "surface": "#e8e5e2",
     "text": "#111111",
-    "muted": "#77736f"
+    "muted": "#686460"
   }
 }

@@ -1,14 +1,95 @@
 <!doctype html>
-<html lang="es">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Portfolio personal" />
-    <title>Portfolio</title>
+    <meta name="description" content="Daniela T — AI-Augmented Software Trainer and Mentor." />
+    <meta name="theme-color" content="#f4f2f0" />
+    <title>Daniela T | Portfolio</title>
+    <link rel="stylesheet" href="./src/styles.css" />
   </head>
   <body>
-    <!-- El script app.js generará aquí la estructura a partir de src/data/ -->
-    <div id="app">Hello World!</div>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header" data-site-header>
+      <div class="page-shell header-inner">
+        <a class="brand" href="#inicio" aria-label="Daniela T — home">
+          <span data-brand-initials>DT</span><span class="brand-period" aria-hidden="true">.</span>
+        </a>
+        <button
+          class="menu-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="primary-navigation"
+          aria-label="Open navigation"
+          data-menu-toggle
+        >
+          <span></span>
+          <span></span>
+        </button>
+        <nav class="primary-navigation" id="primary-navigation" aria-label="Main navigation">
+          <a href="#inicio">Home</a>
+          <a href="#proyectos">Projects</a>
+          <a href="#competencias">Expertise</a>
+          <a href="#contacto">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-shell" id="main-content">
+      <section class="hero section" id="inicio" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow" data-profession>AI-Augmented Software Trainer &amp; Mentor</p>
+          <h1 id="hero-title" data-headline>AI-Augmented Software Trainer &amp; Mentor | AI-Driven Software Co-Creation</h1>
+          <p class="hero-name">I’m <span data-name>Daniela T</span>.</p>
+          <a class="text-link" href="#contacto">Let’s connect <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="art-orbit art-orbit-one"></div>
+          <div class="art-orbit art-orbit-two"></div>
+          <div class="art-core"><span>AI</span><span>×</span><span>HUMAN</span></div>
+          <span class="art-dot art-dot-one"></span>
+          <span class="art-dot art-dot-two"></span>
+        </div>
+        <a class="scroll-cue" href="#proyectos"><span aria-hidden="true">↓</span> Scroll to explore</a>
+      </section>
+
+      <section class="section projects-section" id="proyectos" aria-labelledby="projects-title">
+        <div class="section-heading">
+          <p class="eyebrow">Template examples</p>
+          <h2 id="projects-title">Example projects</h2>
+        </div>
+        <div class="project-grid" data-projects></div>
+      </section>
+
+      <section class="section expertise-section" id="competencias" aria-labelledby="expertise-title">
+        <div class="section-heading">
+          <p class="eyebrow">What I bring</p>
+          <h2 id="expertise-title">Expertise &amp; approach</h2>
+        </div>
+        <div class="expertise-layout">
+          <div class="about-copy" data-profile="about"></div>
+          <div class="skills-panel">
+            <h3>Areas of expertise</h3>
+            <ul class="skill-list" data-skills aria-label="Areas of expertise"></ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="section contact-section" id="contacto" aria-labelledby="contact-title">
+        <div>
+          <p class="eyebrow">Have a workshop or idea in mind?</p>
+          <h2 id="contact-title">Let’s make learning more human.</h2>
+        </div>
+        <div class="contact-links" data-contact-links aria-label="Contact links"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="page-shell footer-inner">
+        <p>© <span data-year></span> <span data-footer-name>Daniela T</span></p>
+        <a href="#inicio">Back to top ↑</a>
+      </div>
+    </footer>
 
     <script type="module" src="/src/app.js"></script>
   </body>
